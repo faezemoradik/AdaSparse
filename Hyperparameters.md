@@ -1,6 +1,6 @@
 # Hyperparameters
 
-The tuned hyperparameters used in our experiments for each section of the paper are reported here. Please note that for both AdaSparse and LC-AdaSparse, the parameter $V$ is defined as $V = \frac{\kappa T}{n d_{\max}}$, where the value of $\kappa$ is reported here.
+The tuned hyperparameters used in our experiments for each section of the paper are reported here. Please note that for both AdaSparse and LC-AdaSparse, the parameter $V$ is set to $V = \frac{\kappa T}{n d_{\max}}$, where the value of $\kappa$ is reported here.
 
 ---
 
