@@ -56,6 +56,7 @@ pip install -r requirements.txt
 
 9. The `-alpha` argument can be set to any value between 0 and 1 when `delay_dist` is set to non-uniform; otherwise, it has no effect on the result.
 
+10. The tuned hyperparameters for each method in each section of the paper are reported in `Hyperparameters.md`.
 
 
 
